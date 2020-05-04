@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <title>My magical school</title>
+    </head>
+    <body>
+         Hello to new students!
+    </body>
+</html>
