@@ -3,6 +3,6 @@
         <title>My magical school</title>
     </head>
     <body>
-         Hello to new students!
+         Hello to new students! Hello again!
     </body>
 </html>
