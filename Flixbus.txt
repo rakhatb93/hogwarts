@@ -1,0 +1,9 @@
+<html>
+   <head>
+      <title>Flixbus</title>
+   </head>
+
+<body>
+   <img src='Images/2.jpg'>
+</body>
+</html>

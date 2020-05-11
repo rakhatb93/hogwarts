@@ -1,0 +1,64 @@
+<html>
+    <head>
+     <title>My trip to Europe</title>
+     <link rel="stylesheet", href="styles.css">
+    </head>
+  <body>
+     <h1>My adventures in Europe</h1>
+     
+     <h2>In May 2019 I took a trip to Europe where I visited some of the most spectacular cities. Here is my diary on the trip</h2>
+     
+     <h2>Trip route and schedule</h2>
+     <blockquote>
+     <p>During my trip I visited four European cities which are the following:</p>
+
+     <table>
+         <tr>
+            <th>City</th>
+            <th>Country</th>
+            <th>Dates</th>
+         </tr>
+         <tr>
+            <td>Budapest</td>
+            <td>Hungary</td>
+            <td>May 20, 25-26</td>
+         </tr>
+         <tr>
+            <td>Vienna</td>
+            <td>Austria</td>
+            <td>May 20, 25</td>
+         </tr>
+         <tr>
+            <td>Palma de Mallorca</td>
+            <td>Spain</td>
+            <td>May 20-22</td>
+         </tr>
+         <tr>
+            <td>Paris</td>
+            <td>France</td>
+            <td>May 23-24</td>
+         </tr>
+     </table>
+   
+  <div id="day1" class="day">
+     <blockquote>
+     Day 1, 19.05.2019
+     </blockquote>
+     
+     <p>On May 18th I took a flight from Astana, Kazakhstan to Budapest, Hungary. The plane<br>
+     landed in the capital of Hungary nearly at midnight that's why I count May 19th as the first day.<br>
+     I was going to take a bus to Vienna at 6 in the morning, by the prominent European bus company <a href="Flixbus.html"><q>Flixbus</q></a>,<br> 
+     so I'd decided not to book a hostel for a few
+     but take a long walk around the city as I was waiting for the bus.</p>
+     <img src='Images/1-min.jpg'>
+  </div>
+  </body>
+</html>
+ 
+     
+
+
+
+
+     
+     
