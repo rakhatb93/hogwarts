@@ -17,26 +17,31 @@
             <th>City</th>
             <th>Country</th>
             <th>Dates</th>
+            <th>Main attrcation seen</th>
          </tr>
          <tr>
             <td>Budapest</td>
             <td>Hungary</td>
             <td>May 20, 25-26</td>
+            <td>Chain Bridge</td>
          </tr>
          <tr>
             <td>Vienna</td>
             <td>Austria</td>
             <td>May 20, 25</td>
+            <td>Freud Park</td>
          </tr>
          <tr>
             <td>Palma de Mallorca</td>
             <td>Spain</td>
             <td>May 20-22</td>
+            <td>Cathedral de Mallorca</td>
          </tr>
          <tr>
             <td>Paris</td>
             <td>France</td>
             <td>May 23-24</td>
+            <td>Pierre la Chaise cemetery</td>
          </tr>
      </table>
    
