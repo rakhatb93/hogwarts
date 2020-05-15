@@ -4,5 +4,40 @@
     </head>
     <body>
          Hello to new students!
+
+         An ordered list:
+
+         <ol>
+            <li>item 1</li>
+            <li>item 1</li>
+            <li>item 1</li>
+            <li>item 1</li>
+            <li>item 1</li>
+         </ol>
+     <img src="1_318_02.jpg">
+
+    <h3>Some capitals of the world</h3>
+   <table>
+       <tr>
+          <th>Capital city</th>
+          <th>Country</th>
+       </tr>
+       <tr>
+          <td>Rome</td>
+          <td>Italy</td>
+       </tr>
+       <tr>
+          <td>Berlin</td>
+          <td>Germany</td>
+       </tr>
+       <tr>
+          <td>Brussels</td>
+          <td>Belgium</td>
+       </tr>
+       <tr>
+          <td>Washington</td>
+          <td>USA</td>
+       </tr>
+   </table>
     </body>
 </html>
