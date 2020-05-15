@@ -14,7 +14,7 @@
             <li>item 1</li>
             <li>item 1</li>
          </ol>
-     <img src="1_318_02.jpg">
+     <img src="1_318_02.jpg" width="50%">
 
     <h3>Some capitals of the world</h3>
    <table>
